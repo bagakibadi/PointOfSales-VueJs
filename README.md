@@ -54,7 +54,7 @@ Point of Sales is a website created for buying and selling transactions, especia
    
 ## Related Project
 
-- [`Library Web Backend RestFulAPI`](https://github.com/ichvanul/PointOfSales-Backend-NodeJs-ExpressJs.git)
+- [`Point Of Sales Backend RestFulAPI`](https://github.com/ichvanul/PointOfSales-Backend-NodeJs-ExpressJs.git)
 
 ## Contact
 
